@@ -6,5 +6,6 @@ public class Sample {
 		System.out.println("Dumy project");
 		System.out.println("Testing");
 		//pushing
+		//testing
 	}
 }
